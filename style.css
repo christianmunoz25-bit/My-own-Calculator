@@ -45,24 +45,23 @@ button {
     transition: 0.2s;
 }
 
-/* Number buttons */
+
 button {
     background-color: #ffffff;
 }
 
-/* Operators */
+
 .plus { background-color: #4CAF50; color: white; }
 .minus { background-color: #2196F3; color: white; }
 .multiply { background-color: #ffeb3b; color: black; }
 .divide { background-color: #9c27b0; color: white; }
 
-/* Special buttons */
+
 .clear { background-color: #f44336; color: white; }
 .equals { background-color: #4CAF50; color: white; }
 .dot { background-color: #00bcd4; color: black; }
 .zero { width: 100%; }
 
-/* Effects */
 button:hover {
     transform: scale(1.05);
 }
